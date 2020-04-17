@@ -1,12 +1,31 @@
-# BMI-Calculator
-An application to calculate body-mass-index with a beautiful UI
- 
- APP Icon
+# BMI_Calculator ![Author -Rehan Khan](https://img.shields.io/badge/Author-Rehan%20Khan-blue)
 
-<img width="58" alt="Screenshot 2019-08-14 at 6 32 51 PM" src="https://user-images.githubusercontent.com/42263217/63023419-b9b39e00-bec2-11e9-8ce5-f2f2b8f8f067.png">
+## A flutter application to calculate body-mass-index with a beautiful UI
 
-APP UI
+---
 
-<img width="310" alt="Screenshot 2019-08-14 at 6 33 38 PM" src="https://user-images.githubusercontent.com/42263217/63023429-bc15f800-bec2-11e9-926a-c3925f3eaf97.png">
+App UI
 
-<img width="309" alt="Screenshot 2019-08-14 at 6 33 50 PM" src="https://user-images.githubusercontent.com/42263217/63023434-bddfbb80-bec2-11e9-8105-f3bd482bf06f.png">
+![BMI Gif](bmi.gif)
+
+---
+
+🖥Requirements
+
+- Any Operating System (i.e. MacOS X, Linux, WIndows)
+- IDE (i.e. VsCode, Android Studio)
+- **Flutter plugin** if not there [Click here to install](https://flutter.dev/docs/get-started/install)
+- Simulator/Emulator/A real mobile device connected to the system.
+
+---
+
+How to run:
+
+```
+- Download the source code by using command "git clone https://github.com/khan-rehan/BMI-Calculator.git" in command line.
+- Open the project in Android studio/Vscode and also open the simulator/emulator.
+- Now do the following:
+    1. Type flutter get packages in terminal of Studio/VsCode.
+    2. Click on run in Android studio/ type "flutter run" in terminal of VsCode and there you go!.
+```
+
